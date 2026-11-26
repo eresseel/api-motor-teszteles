@@ -1,0 +1,2 @@
+Ez a mappa a Maven Surefire plugin által generált tesztjelentéseket tartalmazza.
+Futtasd le a teszteket: mvn clean test

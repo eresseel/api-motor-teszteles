@@ -1,0 +1,6 @@
+hu\laci\apimotor\DeviceListTest.class
+hu\laci\apimotor\DeviceCreateAndDeleteTest.class
+hu\laci\apimotor\DeviceMultiGetTest.class
+hu\laci\apimotor\DeviceCreateAndUpdateTest.class
+hu\laci\apimotor\DeviceGetByIdTest.class
+hu\laci\apimotor\ApiTestConfig.class
