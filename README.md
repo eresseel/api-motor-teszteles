@@ -381,4 +381,3 @@ try {
 - Az API-t nem a Maven indítja; azt külön kell futtatni.
 - A tesztprojekt nem módosítja az API forráskódját.
 - A TC-07/TC-08 és TC-09/TC-10 tesztesetek egymástól függetlenek.
-- Az API memóriaalapú: újraindítás után a POST/PUT/DELETE műveletek hatása elvész, az eredeti adatok visszaállnak.
